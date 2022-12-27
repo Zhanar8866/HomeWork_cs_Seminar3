@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\bin\Debug\net7.0\DZ_02_Distance.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\bin\Debug\net7.0\DZ_02_Distance.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\bin\Debug\net7.0\DZ_02_Distance.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\bin\Debug\net7.0\DZ_02_Distance.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\bin\Debug\net7.0\DZ_02_Distance.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\refint\DZ_02_Distance.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\DZ_02_Distance.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_02_Distance\obj\Debug\net7.0\ref\DZ_02_Distance.dll
