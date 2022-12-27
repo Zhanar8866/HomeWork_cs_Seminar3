@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\bin\Debug\net7.0\DZ_01_Polydrome.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\bin\Debug\net7.0\DZ_01_Polydrome.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\bin\Debug\net7.0\DZ_01_Polydrome.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\bin\Debug\net7.0\DZ_01_Polydrome.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\bin\Debug\net7.0\DZ_01_Polydrome.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\refint\DZ_01_Polydrome.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\DZ_01_Polydrome.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_01_Polydrome\obj\Debug\net7.0\ref\DZ_01_Polydrome.dll
