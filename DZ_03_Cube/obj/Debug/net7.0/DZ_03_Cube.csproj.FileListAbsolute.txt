@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\bin\Debug\net7.0\DZ_03_Cube.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\bin\Debug\net7.0\DZ_03_Cube.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\bin\Debug\net7.0\DZ_03_Cube.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\bin\Debug\net7.0\DZ_03_Cube.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\bin\Debug\net7.0\DZ_03_Cube.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\refint\DZ_03_Cube.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\DZ_03_Cube.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 03. С#\DZ\DZ_03_Cube\obj\Debug\net7.0\ref\DZ_03_Cube.dll
